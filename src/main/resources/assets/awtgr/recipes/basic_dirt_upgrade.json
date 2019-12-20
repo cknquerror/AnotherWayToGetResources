@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WNW",
+        "NWN",
+        "WNW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:planks",
+			"data": 32767
+        },
+		"N": {
+		    "item": "minecraft:iron_nugget"
+		}
+	},
+    "result": {
+        "item": "awtgr:basic_dirt_upgrade",
+        "count": 1
+    }
+}

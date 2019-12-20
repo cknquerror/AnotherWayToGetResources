@@ -1,0 +1,15 @@
+item.woodirt_shovel.name=Грязная деревянная лопата
+tile.iron_dirt.name=Железная земля
+item.wooden_resource_extractor.name=Деревянный экстрактор ресурсов
+awtgr.lores.clicksleft=Кликов осталось
+awtgr.messages.modechanges.wrong=Неверный режим! Нажмите Sneak+ПКМ чтобы изменить режим!
+awtgr.messages.modechanges.ironfromirdirt=Режим изменён! Текущий режим: добыча железа из железной земли
+awtgr.messages.modechanges.ironfromoak=Режим изменён! Текущий режим: добыча железа из досок
+awtgr.lores.itemmode=Режим извлечения:
+awtgr.modes.extract.iron.fromoak=добыча железа из досок
+awtgr.modes.extract.iron.fromirondirt=добыча железа из железной земли
+item.bit_of_iron.name=Кусок железа
+item.basic_dirt_updgrade.name=Базовое обновление земли
+item.iron_resource_extractor.name=Железный экстрактор ресурсов
+item.enchanced_dirt_upgrade.name=Улучшенное обновление земли
+tile.enchanced_iron_dirt.name=Улучшенная железная земля

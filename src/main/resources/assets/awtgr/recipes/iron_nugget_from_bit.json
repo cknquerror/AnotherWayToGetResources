@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    "key": {
+        "B": {
+            "item": "awtgr:bit_of_iron"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_nugget",
+        "count": 1
+    }
+}

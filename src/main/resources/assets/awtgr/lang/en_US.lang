@@ -1,0 +1,15 @@
+item.woodirt_shovel.name=Woodirt shovel
+tile.iron_dirt.name=Iron dirt
+item.wooden_resource_extractor.name=Wooden resource extractor
+awtgr.lores.clicksleft=Clicks left
+awtgr.messages.modechanges.wrong=Wrong mode! Press Right Mouse when sneaking to change mode!
+awtgr.messages.modechanges.ironfromirdirt=Mode changed! Current mode: extract iron from iron dirt
+awtgr.messages.modechanges.ironfromoak=Mode changed! Current mode: extract iron from planks
+awtgr.lores.itemmode=Current mode:
+awtgr.modes.extract.iron.fromoak=extract iron from planks
+awtgr.modes.extract.iron.fromirondirt=extract iron from iron dirt
+item.bit_of_iron.name=Bit of iron
+item.basic_dirt_upgrade.name=Basic dirt upgrade
+item.iron_resource_extractor.name=Iron resource extractor
+item.enchanced_dirt_upgrade.name=Enchanced dirt upgrade
+tile.enchanced_iron_dirt.name=Enchanced iron dirt

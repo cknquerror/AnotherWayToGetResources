@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " IS",
+        "IWI",
+        "SI "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:planks",
+			"data": 32767
+        },
+		"S": {
+		    "item": "minecraft:stick"
+		},
+		"I": {
+		    "item": "minecraft:iron_ingot"
+	    }
+	},
+    "result": {
+        "item": "awtgr:iron_resource_extractor",
+        "count": 1
+    }
+}

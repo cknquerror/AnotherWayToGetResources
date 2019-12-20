@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DUD",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:dirt",
+			"data": 32767
+        },
+		"U": {
+		    "item": "awtgr:basic_dirt_upgrade"
+		}
+	},
+    "result": {
+        "item": "awtgr:iron_dirt",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "awtgr:items/bit_of_iron"
+  }
+}

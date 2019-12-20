@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " SW",
+        "SWS",
+        "SS "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:planks",
+			"data": 32767
+        },
+		"S": {
+		    "item": "minecraft:stick"
+		}
+	},
+    "result": {
+        "item": "awtgr:wooden_resource_extractor",
+        "count": 1
+    }
+}

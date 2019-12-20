@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EBE",
+        "OOO",
+        "EOE"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:log",
+			"data": 32767
+        },
+		"E": {
+		    "item": "awtgr:enchanced_dirt_upgrade"
+		},
+		"B": {
+		    "item": "minecraft:iron_block"
+	    }
+	},
+    "result": {
+        "item": "awtgr:enchanced_iron_dirt",
+        "count": 1
+    }
+}
