@@ -1,4 +1,5 @@
-package ru.cknquerror.awtgr.proxy;
+
+package cknquerror.awtgr.proxy;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;

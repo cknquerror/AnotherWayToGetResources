@@ -1,5 +1,6 @@
 package cknquerror.awtgr.register;
 
+import cknquerror.awtgr.item.*;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
