@@ -1,4 +1,4 @@
-package ru.cknquerror.awtgr;
+package cknquerror.awtgr.item;
 
 import java.util.List;
 
@@ -30,7 +30,6 @@ import net.minecraft.world.chunk.Chunk;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import scala.Int;
-import ru.cknquerror.awtgr.ItemBitOfIron;
 
 public class ItemWoodenResourceExtractor extends ItemSpade {
 	

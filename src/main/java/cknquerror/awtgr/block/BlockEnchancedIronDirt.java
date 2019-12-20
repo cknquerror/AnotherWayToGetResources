@@ -1,18 +1,12 @@
-package ru.cknquerror.awtgr;
-
-import java.util.Random;
+package cknquerror.awtgr.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
-import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.item.Item;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.world.World;
 
-public class BlockIronDirt extends Block {
+public class BlockEnchancedIronDirt extends Block{
 
-	public BlockIronDirt(Material materialIn, String name) {
+	public BlockEnchancedIronDirt(Material materialIn, String name) {
 		super(materialIn);
 		this.setRegistryName(name);
 		this.setUnlocalizedName(name);

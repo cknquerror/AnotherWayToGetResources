@@ -1,4 +1,4 @@
-package ru.cknquerror.awtgr;
+package cknquerror.awtgr.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

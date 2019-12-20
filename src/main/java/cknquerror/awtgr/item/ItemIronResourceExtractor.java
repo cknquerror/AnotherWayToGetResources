@@ -1,4 +1,4 @@
-package ru.cknquerror.awtgr;
+package cknquerror.awtgr.item;
 
 import java.util.List;
 

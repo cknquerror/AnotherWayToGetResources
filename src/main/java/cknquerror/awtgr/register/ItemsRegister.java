@@ -1,4 +1,4 @@
-package ru.cknquerror.awtgr;
+package cknquerror.awtgr.register;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;

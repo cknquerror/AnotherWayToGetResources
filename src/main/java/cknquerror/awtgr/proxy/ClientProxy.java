@@ -3,8 +3,8 @@ package ru.cknquerror.awtgr.proxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import ru.cknquerror.awtgr.BlocksRegister;
-import ru.cknquerror.awtgr.ItemsRegister;
+import cknquerror.awtgr.block.BlocksRegister;
+import cknquerror.awtgr.register.ItemsRegister;
 
 public class ClientProxy extends CommonProxy
 {

@@ -1,4 +1,4 @@
-package ru.cknquerror.awtgr;
+package cknquerror.awtgr.register;
 
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.common.crafting.CraftingHelper;

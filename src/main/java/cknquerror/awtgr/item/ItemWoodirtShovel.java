@@ -1,4 +1,4 @@
-package ru.cknquerror.awtgr;
+package cknquerror.awtgr.item;
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Blocks;
