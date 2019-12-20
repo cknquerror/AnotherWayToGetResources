@@ -1,4 +1,4 @@
-package ru.cknquerror.awtgr;
+package cknquerror.awtgr;
 
 import net.minecraft.block.Block;
 import net.minecraftforge.fml.common.Mod;
@@ -13,7 +13,7 @@ import ru.cknquerror.awtgr.proxy.CommonProxy;
 
 public class AnotherWayToGetResources {
 	
-	@SidedProxy(clientSide = "ru.cknquerror.awtgr.proxy.ClientProxy", serverSide = "ru.cknquerror.awtgr.proxy.CommonProxy")
+	@SidedProxy(clientSide = "ru.cknquerror.awtgr.proxy.ClientProxy")
 	public static CommonProxy proxy;
 	
 	@EventHandler
