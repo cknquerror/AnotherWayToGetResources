@@ -4,6 +4,7 @@ import java.util.List;
 
 import javax.annotation.Nullable;
 
+import cknquerror.awtgr.block.BlockIronDirt;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockPlanks;
 import net.minecraft.client.Minecraft;
