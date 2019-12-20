@@ -74,4 +74,7 @@ processResources {
     from(sourceSets.main.resources.srcDirs) {
         exclude 'mcmod.info'
     }
+    sourceSets {
+        main { output.resourcesDir = output.classesDir }
+    }
 }
