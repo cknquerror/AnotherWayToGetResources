@@ -41,7 +41,7 @@ public class BlockEnchancedIronDirt extends Block implements IExtractable{
 
     @Override
     public void extract(EntityPlayer player, EnumHand hand) {
-        ToolUtils.rightClick(player,hand,new ItemStack(Blocks.COBBLESTONE),new ItemStack(Items.IRON_NUGGET));
+        ToolUtils.rightClick(player,hand,new ItemStack(Blocks.COBBLESTONE),new ItemStack(Items.IRON_NUGGET,14));
 
     }
 }

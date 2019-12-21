@@ -2,6 +2,7 @@ package cknquerror.awtgr.block;
 
 import java.util.Random;
 
+import cknquerror.awtgr.item.Extractor;
 import cknquerror.awtgr.utils.InstrumentLevel;
 import cknquerror.awtgr.utils.ToolUtils;
 import net.minecraft.block.Block;
@@ -46,7 +47,12 @@ public class BlockIronDirt extends Block implements IExtractable{
 
     @Override
     public void extract(EntityPlayer player, EnumHand hand) {
-        ToolUtils.rightClick(player,hand,new ItemStack(Blocks.DIRT),new ItemStack(Items.IRON_NUGGET));
+        Extractor ex = (Extractor) player.getHeldItem(hand).getItem();
+        int count = 1;
+        if(ex.getLevel().isGreaterThan(InstrumentLevel.WOOD)){
+            count = 4;
+        }
+        ToolUtils.rightClick(player,hand,new ItemStack(Blocks.DIRT),new ItemStack(Items.IRON_NUGGET, count));
     }
 
 }
