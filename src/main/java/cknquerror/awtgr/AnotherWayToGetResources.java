@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 public class AnotherWayToGetResources {
 	
-	@SidedProxy(clientSide = "ru.cknquerror.awtgr.proxy.ClientProxy")
+	@SidedProxy(clientSide = "cknquerror.awtgr.proxy.ClientProxy")
 	public static CommonProxy proxy;
 	
 	@EventHandler
