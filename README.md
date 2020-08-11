@@ -1,5 +1,5 @@
 # Another Way To Get Resources (AWTGR)
-Originally created by andreyshtern and cknquerror for Forge 1.12.2
+Originally created by cknquerror (refactored by andreyshtern) for Forge 1.12.2
 
 ## Installation
 Just drop jar to your `/mods` directory. No additional libraries needed.
